@@ -2,7 +2,7 @@
     "title": "Version Control Systems: Introduction",
     "slug": "version-control-systems-introduction",
     "authors": [
-        "Chris Cooling"
+        "chris-cooling"
     ],
     "tags": [
         "software-engineering"
@@ -12,8 +12,8 @@
     ],
     "related": [
         {
-            "slug": "",
-            "description": ""
+            "slug": "git-introduction",
+            "description": "An introduction to Git, a popular version control system."
         }
     ]
 }
