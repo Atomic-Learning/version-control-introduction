@@ -14,10 +14,6 @@
         {
             "slug": "git-introduction",
             "description": "An introduction to Git, a popular version control system."
-        },
-        {
-            "slug": "missing",
-            "description": "An introduction to Git, a popular version control system."
         }
     ]
 }
