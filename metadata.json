@@ -11,9 +11,6 @@
     "prerequisites": [
     ],
     "related": [
-        {
-            "slug": "git-introduction",
-            "description": "An introduction to Git, a popular version control system."
-        }
+        "slug": "git-introduction"
     ]
 }
